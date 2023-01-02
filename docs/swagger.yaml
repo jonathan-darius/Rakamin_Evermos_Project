@@ -1,0 +1,11 @@
+host: :8000
+info:
+  contact: {}
+  description: |-
+    Evermos Rakamin Virtual Internship Project
+    Design DB: https://drive.google.com/file/d/1L7pzFNjMNfUU-f3tsrZPKTjMpbIGaodW/view
+    API Contract: shorturl.at/AFH09
+  title: Evermost Final Project
+  version: 1.0.0
+paths: {}
+swagger: "2.0"

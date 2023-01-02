@@ -1,0 +1,11 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Evermos Rakamin Virtual Internship Project\nDesign DB: https://drive.google.com/file/d/1L7pzFNjMNfUU-f3tsrZPKTjMpbIGaodW/view\nAPI Contract: shorturl.at/AFH09",
+        "title": "Evermost Final Project",
+        "contact": {},
+        "version": "1.0.0"
+    },
+    "host": ":8000",
+    "paths": {}
+}
